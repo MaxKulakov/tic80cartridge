@@ -1,0 +1,21 @@
+{
+  "name": "tic80cartridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxKulakov/tic80cartridge.git"
+  },
+  "author": "Max Kulakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxKulakov/tic80cartridge/issues"
+  },
+  "homepage": "https://github.com/MaxKulakov/tic80cartridge",
+  "dependencies": {
+  }
+}
